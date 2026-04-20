@@ -54,18 +54,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-| Project | Stack | Focus |
-|---|---|---|
-| **SLSU-SDSO System** | `Laravel` `Filament` | Workflow & structured architecture |
-| **SLEM Cooperative System** | `PHP` `MySQL` | Transactions & database design |
-| **PICSON Clinic System** | `Full-Stack` | Records & workflow automation |
-| **Volleyball Overlay** | `Node.js` `WebSockets` | Realtime UI & OBS integration |
-
-</div>
 
 ---
 
