@@ -10,6 +10,10 @@ Frontend Engineer • Full-stack Developer (in progress)
 Focused on building functional systems, not just interfaces.
 
 ---
+<!-- STATS --><p align="center">
+  <img src="https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353"/>
 
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="18"/> Core Projects
 
