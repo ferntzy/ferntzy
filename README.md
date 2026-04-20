@@ -31,7 +31,7 @@
 |---|---|---|
 | **SLSU-SDSO System** | `Full-Stack` | Workflow & structured architecture |
 | **SLEM Cooperative System** | `PHP` `MySQL` | Transactions & database design |
-| **PICSON Clinic System** | `Laravel` 'Filament'| Records & workflow automation |
+| **PICSON Clinic System** | `Laravel` `Filament` | Records & workflow automation |
 | **Volleyball Overlay** | `Node.js` `WebSockets` | Realtime UI & OBS integration |
 
 </div>
