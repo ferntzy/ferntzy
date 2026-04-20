@@ -49,11 +49,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353&bg_color=0d1117&hide_title=true&rank_icon=github" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353&bg_color=0d1117&hide_title=true&rank_icon=github" width="95%" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0d1117" width="47%" />
+<img src="https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0d1117" width="95%" />
 </div>
 ---
 
