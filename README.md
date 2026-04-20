@@ -1,95 +1,70 @@
-```markdown
-<h1 align="center">Ferntzy</h1>
+<h1 align="center">ferntzy</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Rovic+Kristian;Fern;Builder+of+Worlds" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Rovic+Kristian;Fern;Systems+Developer;Building+real+applications" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ferntzy">
-    <img src="https://img.shields.io/badge/Frontend_Engineer-111111?style=for-the-badge&logo=github&logoColor=39D353" />
-  </a>
-  <a href="https://github.com/ferntzy">
-    <img src="https://img.shields.io/badge/Full--Stack_Developer-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-  </a>
-  <a href="https://github.com/ferntzy">
-    <img src="https://img.shields.io/badge/MIS_Focus-111111?style=for-the-badge&logo=data-driven-documents&logoColor=39D353" />
-  </a>
+  <img src="https://img.shields.io/badge/Systems_Developer-0d1117?style=for-the-badge&logo=linux&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Full--Stack-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
+  <img src="https://img.shields.io/badge/MIS_Focused-0d1117?style=for-the-badge&logo=databricks&logoColor=39d353" />
 </p>
 
 ---
 
-<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/1164/1164620.png" width="24" style="vertical-align: middle;"/> Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353&bg_color=0D1117" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0d1117" width="48%" />
 </p>
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="24" style="vertical-align: middle;"/> Core Projects
+### about
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" width="18" style="vertical-align: middle;"/> System Development
-| Project | Tech / Elements | Description |
-| :--- | :--- | :--- |
-| **SLSU-SDSO Capstone** | `Laravel` `Filament` | Full system • SDSO process management • Structured workflows • Large-scale design |
-| **SLEM Cooperative System** | `PHP` `MySQL` | Operations management • Backend logic • Payment allocation logic • Database architecture |
-| **PICSON Maternity Clinic** | `Full-stack` | Clinic management • Record handling • Workflow automation |
+```txt
+Rovic Kristian C. Laniog
+Systems Developer (Student)
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/684/684849.png" width="18" style="vertical-align: middle;"/> Full-Stack & Framework Work
-| Project | Tech / Elements | Description |
-| :--- | :--- | :--- |
-| **Filament Applications** | `Laravel Filament v4` | Admin panels • Rapid backend dev • Professional UI structuring |
-| **Authentication Systems** | `PHP` `MySQL` | Login systems • Session handling • User management logic |
+I build structured systems — not just interfaces.
+Focused on real-world applications and clean execution.
+---
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/1048/1048943.png" width="18" style="vertical-align: middle;"/> Creative & Frontend Projects
-| Project | Tech / Elements | Description |
-| :--- | :--- | :--- |
-| **Volleyball Stream Overlay** | `Node.js` `WebSockets` | Professional livestream UI • Server-side sync • OBS-ready graphics |
-| **Portfolio Website** | `UI/UX` `Frontend` | High-contrast aesthetics • Dark-mode compatible • Clean design showcase |
-| **Hearts Day Projects** | `Frontend` `CSS` | Themed builds • Design interactions |
+### featured projects
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/1043/1043400.png" width="18" style="vertical-align: middle;"/> Experimental & Academic
-| Category | Highlights | Focus |
-| :--- | :--- | :--- |
-| **Academic / Research** | EVCO 2024 Java (2nd Place) • MIS Patent Research 2025 • Capstone Iterations | System planning • Academic documentation • Competitive coding |
-| **Utility Tools** | ID Maker • Cipher/Message Systems | Practical tool dev • Problem-solving • Basic encoding logic |
-| **API Experiments** | Pokemon Project | Data handling • UI rendering |
+#### SLSU-SDSO System
+![preview](https://via.placeholder.com/800x400/0d1117/39d353?text=SDSO+System+Preview)
+
+**stack:** laravel, filament  
+**focus:** workflow systems, structured architecture  
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-39d353?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![Source Code](https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](#)
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="24" style="vertical-align: middle;"/> Development Focus
+#### SLEM Cooperative System
+![preview](https://via.placeholder.com/800x400/0d1117/39d353?text=Coop+System+Preview)
 
-* `>` Real-world Management Information Systems (MIS)
-* `>` Backend architecture refinement
-* `>` High-contrast, clean UI/UX execution
-* `>` Scalable full-stack application deployment
+**stack:** php, mysql  
+**focus:** transactions, backend logic, database design  
 
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3523/3523063.png" width="24" style="vertical-align: middle;"/> Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,cs,java" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi,mysql" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=photoshop,pr,obs" />
-</p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-39d353?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![Source Code](https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](#)
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="24" style="vertical-align: middle;"/> Philosophy
+#### PICSON Clinic System
+![preview](https://via.placeholder.com/800x400/0d1117/39d353?text=Clinic+System+Preview)
 
-> `Systems > Shortcuts` <br>
-> `Clarity > Complexity` <br>
-> `Function > Aesthetics (but perfectly balanced)`
+**stack:** full-stack  
+**focus:** records, workflow automation  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=footer"/>
-</p>
+#### Volleyball Overlay System
+![preview](https://via.placeholder.com/800x400/0d1117/39d353?text=Overlay+Preview)
 
-```
+**stack:** node.js, websockets  
+**focus:** realtime UI, OBS integration  
+
+---
