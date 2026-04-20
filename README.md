@@ -1,5 +1,5 @@
 <!-- HEADER --><h1 align="center">Ferntzy</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Frontend+Engineer;System+Builder;UI%2FUX+Focused;I+solve+real+problems." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Rovic+Kristian;Fern;Builder+of+Worlds" />
 </p>---
 
 <img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" width="18"/> Profile
