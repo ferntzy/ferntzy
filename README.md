@@ -6,11 +6,42 @@
 
 <br/>
 
-[![](https://img.shields.io/badge/-Laravel-0d1117?style=flat-square&logo=laravel&logoColor=ff2d20)](https://laravel.com)
-[![](https://img.shields.io/badge/-PHP-0d1117?style=flat-square&logo=php&logoColor=8892be)](https://php.net)
-[![](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)](https://mysql.com)
-[![](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)](https://nodejs.org)
-[![](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624)](https://linux.org)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892be)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=9b4993)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![REST API](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=39d353)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
+![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20)
+
+**DevOps & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-0d1117?style=for-the-badge&logo=obsstudio&logoColor=302e31)
+
+**Creative**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0d1117?style=for-the-badge&logo=adobepremierepro&logoColor=9999ff)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00c4cc)
 
 </div>
 
@@ -29,9 +60,9 @@
 
 | Project | Stack | Focus |
 |---|---|---|
-| **SLSU-SDSO System** | `Full-Stack` | Workflow & structured architecture |
+| **SLSU-SDSO System** | `Laravel` `Filament` | Workflow & structured architecture |
 | **SLEM Cooperative System** | `PHP` `MySQL` | Transactions & database design |
-| **PICSON Clinic System** | `Laravel` `Filament` | Records & workflow automation |
+| **PICSON Clinic System** | `Full-Stack` | Records & workflow automation |
 | **Volleyball Overlay** | `Node.js` `WebSockets` | Realtime UI & OBS integration |
 
 </div>
