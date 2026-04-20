@@ -1,13 +1,13 @@
-# Hi, I'm fernzty 👋
+# Hi, I'm ferntzy 👋
 <h3 align="left"><code style="color:#39d353">i solve problems</code></h3>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fernzty&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353)](https://git.io/streak-stats)
 
 <br/>
 
-[![fernzty's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernzty&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353)](https://github.com/fernzty)
+[![ferntzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353)](https://github.com/ferntzy)
 
 ---
 
@@ -55,5 +55,5 @@ environments, and software tools I have used and am currently exploring.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fernzty&color=39d353&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ferntzy&color=39d353&style=flat-square" alt="profile views"/>
 </p>
