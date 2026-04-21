@@ -10,6 +10,10 @@
 
 ---
 
+> Hi, I'm Rovic. Being a developer has been nothing short of a paradigm shift — I never thought I'd find such purpose. I'm laser-focused on **building scalable systems**, contributing to **open source**, and **solving real-world problems with code**.
+
+---
+
 ## languages
 
 <div align="left">
