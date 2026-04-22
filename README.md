@@ -10,12 +10,20 @@
 
 ---
 
-> Hi, I'm Rovic. Being a developer has been nothing short of a paradigm shift — I never thought I'd find such purpose. I'm laser-focused on:
->
->**Building scalable systems**
->**Contributing to open source**
->**Solving real-world problems with code**
+## Hi, I'm Rovic 👋
 
+Developer. Builder. Problem-solver.
+
+What started as curiosity turned into a full-on pursuit of creating systems that actually matter. I’m driven by the process of turning ideas into scalable, working solutions.
+
+### 🚀 Focus Areas
+- Building scalable and efficient systems  
+- Contributing to open-source projects  
+- Solving real-world problems through code  
+
+### ⚡ Mindset
+I’m always learning, always improving, and always building.  
+Clean code, practical solutions, and continuous growth—that’s the game.
 ---
 
 ## languages
