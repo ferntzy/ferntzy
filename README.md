@@ -10,7 +10,7 @@
 
 ---
 
-## Hi, I'm Rovic👋
+## Hi, I'm Rovic 👋
 
 Developer. Builder. Problem-solver.
 
