@@ -29,7 +29,7 @@ Recent work includes a live hospital website, a PhilHealth ICD-10 coding assista
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Leyte Baptist Hospital Website](https://portfolio-beige-mu-vhe42cayoy.vercel.app/)** | Official landing page for Leyte Baptist Hospital | React, TypeScript, Vite, Vercel |
+| **Leyte Baptist Hospital Website** | Official landing page for Leyte Baptist Hospital | React, TypeScript, Vite, Vercel |
 | **ICD-10 Coding Assistant** | PhilHealth-scoped ICD-10 coding web app with usage metering | FastAPI / Serverless, Upstash Redis, Vercel |
 | **SEMIS (Capstone)** | Student Event Management Information System with multi-level approvals, venue booking & real-time calendar | Laravel 11, Blade, MySQL, JavaScript |
 | **BizBox → Excel Reporter** | Desktop tool that converts hospital FMS XML exports into formatted Excel workbooks with live summaries | Python, xlwings |
