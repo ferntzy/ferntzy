@@ -34,6 +34,7 @@ Recent work includes a live hospital website, a PhilHealth ICD-10 coding assista
 | **SEMIS (Capstone)** | Student Event Management Information System with multi-level approvals, venue booking & real-time calendar | Laravel 11, Blade, MySQL, JavaScript |
 | **BizBox → Excel Reporter** | Desktop tool that converts hospital FMS XML exports into formatted Excel workbooks with live summaries | Python, xlwings |
 | **CMIS** | Cooperative Management Information System (OJT) | PHP, MySQL |
+| **E-Reseta** | Desktop tool that converts Doctors hand writng into readable text that automatically turns it into a pdf file | Python, xlwing| 
 | **Gym / Cashiering / Inventory Systems** | Full membership, POS & stock management systems | PHP, MySQL |
 
 ---
