@@ -13,7 +13,7 @@
 ### Hey, I'm Rovic 👋
 
 **Full-Stack Web Developer** · BS Information Technology  
-Malitbog, Southern Leyte, Philippines
+San Vicente, Malitbog, Southern Leyte, Philippines
 
 I build production web apps and internal tools end-to-end — frontend, backend, database, and deployment.  
 Recent work includes a live hospital website, a PhilHealth ICD-10 coding assistant, and internal reporting tools for healthcare clients.
