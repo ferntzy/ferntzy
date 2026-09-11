@@ -80,8 +80,8 @@ Recent work includes a live hospital website, a PhilHealth ICD-10 coding assista
 - **Developer Intern** — CreativeDevLabs (600 hours)  
   Built systems for cooperative operations, automated ID generation, and contributed to UI + database work across multiple internal tools.
 
-- **Freelance / Independent Developer** — Leyte Baptist Hospital & clients (2025 – Present)  
-  Delivered production hospital website, ICD-10 coding assistant, Excel automation tools, and pitched an AI prescription recognition system (ScriptIQ).
+- **Freelance / Independent Developer** — clients (2023 – Present)  
+  Delivered production websites, ICD-10 coding assistant, Excel automation tools, and pitched an AI prescription recognition system (ScriptIQ).
 
 ---
 
