@@ -10,7 +10,7 @@
 
 ---
 
-### Hey, I'm Rovic 👋
+### Hey, I'm Rovic
 
 **Full-Stack Web Developer** · BS Information Technology  
 San Vicente, Malitbog, Southern Leyte, Philippines
