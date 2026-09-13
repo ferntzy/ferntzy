@@ -16,7 +16,7 @@
 San Vicente, Malitbog, Southern Leyte, Philippines
 
 I build production web apps and internal tools end-to-end — frontend, backend, database, and deployment.  
-Recent work includes a live hospital website, a PhilHealth ICD-10 coding assistant, and internal reporting tools for healthcare clients.
+Recent work includesa PhilHealth ICD-10 coding assistant, and internal reporting tools for healthcare clients.
 
 **What I care about**
 - Shipping clean, scalable systems that actually get used
