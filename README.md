@@ -4,43 +4,54 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=580&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+FastAPI+%7C+TypeScript;Shipping+real+systems+for+real+clients.;Always+building.+Always+learning.)](https://github.com/ferntzy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Systems+Builder;Laravel+%7C+React+%7C+Next.js+%7C+Python;APIs+%7C+Databases+%7C+Automation+%7C+No-Code;Building+tools+that+solve+real+problems.;Always+building.+Always+learning.)](https://github.com/ferntzy)
 
 </div>
 
 ---
 
-### Hey, I'm Rovic
+## Hey, I'm Rovic 👋
 
-**Full-Stack Web Developer** · BS Information Technology  
-San Vicente, Malitbog, Southern Leyte, Philippines
+**Full-Stack Developer · Systems Builder · BS Information Technology**
 
-I build production web apps and internal tools end-to-end — frontend, backend, database, and deployment.  
-Recent work includesa PhilHealth ICD-10 coding assistant, and internal reporting tools for healthcare clients.
+📍 Southern Leyte, Philippines
 
-**What I care about**
-- Shipping clean, scalable systems that actually get used
-- Owning projects from idea → production
-- Continuous learning and practical problem-solving
+I enjoy turning real-world problems into practical digital systems.
+
+My background combines **web development, database-backed applications, APIs, automation, administrative systems, healthcare workflows, and AI-assisted development**.
+
+I like building things end-to-end — from understanding the problem and planning the database, to designing the interface, writing the backend, connecting APIs, testing, deploying, and improving the finished product.
+
+I'm especially interested in:
+
+- Full-stack web development
+- Internal business tools
+- Workflow automation
+- No-code / low-code development
+- AI-assisted software development
+- Healthcare and administrative systems
+- APIs and system integrations
+- Rapid prototyping
+
+> I don't just want to write code — I want to build systems that people can actually use.
 
 ---
 
-### Featured Work
+## Featured Work
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| **ICD-10 Coding Assistant** | PhilHealth-scoped ICD-10 coding web app with usage metering | FastAPI / Serverless, Upstash Redis, Vercel |
-| **SEMIS (Capstone)** | Student Event Management Information System with multi-level approvals, venue booking & real-time calendar | Laravel 11, Blade, MySQL, JavaScript |
-| **BizBox → Excel Reporter** | Desktop tool that converts hospital FMS XML exports into formatted Excel workbooks with live summaries | Python, xlwings |
-| **CMIS** | Cooperative Management Information System (OJT) | PHP, MySQL |
-| **E-Reseta** | Desktop tool that converts Doctors hand writng into readable text that automatically turns it into a pdf file | Python, xlwing| 
-| **Gym / Cashiering / Inventory Systems** | Full membership, POS & stock management systems | PHP, MySQL |
+|---|---|---|
+| **ICD-10 Coding Assistant** | Publicly deployed PhilHealth-oriented ICD-10 coding assistant designed to simplify code lookup and healthcare-related coding workflows. | Next.js, Vercel, Upstash Redis |
+| **SEMIS** | Student Event Management Information System with event proposals, multi-level approvals, venue booking, scheduling, and calendar-based event management. | Laravel 11, Blade, JavaScript, MySQL |
+| **eReseta** | Locally used prescription management application designed to improve prescription-related digital workflows. | Python |
+| **BizBox → Excel Reporter** | Desktop automation tool for transforming hospital financial-system exports into structured and easier-to-review Excel reports. | Python, Excel Automation |
 
 ---
 
-### Tech Stack
+## What I Work With
 
-**Languages**  
+### Languages
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />&nbsp;
@@ -49,69 +60,198 @@ Recent work includesa PhilHealth ICD-10 coding assistant, and internal reporting
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
 
-**Frontend**  
+### Frontend
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel / Blade" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress" />
 
-**Backend & Frameworks**  
+### Backend & Frameworks
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
 
-**Database & Cloud**  
+### Databases & Cloud
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
 
-**Tools**  
+---
+
+## No-Code / Low-Code & Automation
+
+I also work with and actively explore modern no-code / low-code platforms for faster prototyping, workflow automation, internal tools, and client-facing applications.
+
+**Platforms & Tools**
+
+- Airtable
+- Softr
+- Bubble
+- Webflow
+- Glide
+- Adalo
+- WordPress
+- Elementor
+- Zapier
+- Make / Integromat
+
+My traditional development background helps me understand the concepts behind these tools — including:
+
+- Database relationships
+- CRUD workflows
+- Authentication
+- User roles and permissions
+- APIs
+- Automation triggers
+- Data validation
+- Responsive UI
+- Business process logic
+
+That makes it easier for me to move between **traditional development and visual development platforms** depending on what a project actually needs.
+
+---
+
+## AI-Assisted Development
+
+AI is part of my development workflow, not a replacement for understanding what I'm building.
+
+I use generative AI tools for:
+
+- Requirements analysis
+- Rapid prototyping
+- Debugging
+- Code generation and refactoring
+- API research
+- Documentation
+- Database planning
+- UI/UX ideation
+- Testing ideas
+- Learning unfamiliar technologies
+- Workflow automation
+- Prompt design and iterative problem-solving
+
+I'm comfortable communicating complex requirements to AI systems and refining outputs until they become useful, maintainable solutions.
+
+**Prompt engineering for me means knowing how to turn a vague objective into structured instructions, context, constraints, validation steps, and usable output.**
+
+---
+
+## Development & Productivity Tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" title="Photoshop" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" title="Premiere Pro" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva" />
 
----
+**Project & Workflow Tools**
 
-### Experience Highlights
-
-- **Developer Intern** — CreativeDevLabs (600 hours)  
-  Built systems for cooperative operations, automated ID generation, and contributed to UI + database work across multiple internal tools.
-
-- **Freelance / Independent Developer** — clients (2023 – Present)  
-  Delivered production websites, ICD-10 coding assistant, Excel automation tools, and pitched an AI prescription recognition system (ScriptIQ).
+`Trello` · `Asana` · `GitHub` · `Postman` · `VS Code` · `cPanel` · `Cloudflare` · `Vercel`
 
 ---
 
-### Competitions
+## Experience
 
-- 🥈 **2nd Place** — 2nd Eastern Visayas Coding Olympics (EVCO), Oct 2024
-- Participant — 1st EVCO, HackforGov (Region 8), CodeChum National Programming Challenge
+### Developer Intern — CreativeDevLabs
+**600 Hours · 2026**
+
+Worked as part of a development team across frontend, API, database, deployment, and web-related tasks.
+
+- Collaborated on client and internal development projects
+- Worked with PHP, web technologies, APIs, databases, and WordPress
+- Participated in frontend design and implementation
+- Assisted with deployment and development workflows
+- Used **Trello and Asana** for project management, task tracking, and team coordination
+- Worked within collaborative development processes using Git/GitHub
+
+### Administrative Support Staff — Leyte Baptist Hospital, Inc.
+**2026 – Present**
+
+My current work also gives me exposure to real operational and healthcare workflows.
+
+- Handles documentation and administrative records
+- Works with digital hospital systems and data workflows
+- Handles confidentiality-sensitive information
+- Assists with PhilHealth-related documentation and claims processes
+- Identifies opportunities where software and automation can improve repetitive processes
+
+This experience has strongly influenced the kind of software I like building: **tools that make real work easier.**
 
 ---
 
-### GitHub Stats
+## College Competitions & Recognition
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master.gitub.vercel.app/api?username=ferntzy&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353&bg_color=0d1117&rank_icon=github&hide_title=true" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ferntzy&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0d1117" width="49%" alt="GitHub Streak" />
-</div>
+### 🥈 2nd Place — 2nd Eastern Visayas Coding Olympics
+**October 2024**
 
-<br/>
+Competed as part of a programming team representing Southern Leyte State University.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferntzy&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true&area=true&area_color=39d35320" width="100%" alt="Contribution Graph" />
-</div>
+**Primary competition language:** Java
+
+### 💻 Eastern Visayas Coding Olympics
+
+- Participant — **1st Eastern Visayas Coding Olympics**
+- 🥈 **2nd Place — 2nd Eastern Visayas Coding Olympics**
+
+### 🛡️ HackForGov Region VIII
+
+- Participant — **2nd HackForGov Competition**
+- Participant — **3rd HackForGov Competition**
+- Represented the university in cybersecurity-focused regional competitions
+
+### 🧠 CodeChum National Programming Challenge
+
+**Round 2 Finalist**
+
+Advanced to the second round of the national programming competition using Java.
 
 ---
 
-### Connect
+## Beyond Development
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beige-mu-vhe42cayoy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rovic-kristian-laniog-5b9034373)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferntzy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolaniog@gmail.com)
+I also enjoy combining technology with creative work.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=90&section=footer" width="100%" />
+I've been involved in:
+
+- Esports management
+- Event graphics
+- Livestream production
+- OBS Studio
+- Graphic design
+- Video editing
+- UI/UX design
+
+I previously helped manage **Southern Leyte State University's Kingfishers Mobile Legends teams**, which also gave me experience with coordination, communication, events, and working with teams under pressure.
+
+---
+
+## Currently Learning
+
+```text
+No-Code / Low-Code Development
+├── Airtable
+├── Softr
+├── Bubble
+├── Webflow
+├── Glide
+└── Automation
+
+Automation
+├── Zapier
+├── Make
+├── REST APIs
+└── AI-assisted workflows
+
+Development
+├── Better system architecture
+├── Advanced Laravel
+├── React / Next.js
+├── Python automation
+└── AI-integrated applications
